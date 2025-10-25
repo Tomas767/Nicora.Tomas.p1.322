@@ -1,0 +1,3 @@
+interface Actualizable {
+    void actualizarDatos();
+}
